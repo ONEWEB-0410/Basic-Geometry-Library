@@ -1,2 +1,2 @@
 # Basic-Geometry-Library
-A basic geometry library for roblox. See more [here](https://devforum.roblox.com/t/basic-geometry-library/1568630)
+A basic geometry library for roblox. See some axamples using this [here](https://github.com/alphabot22/Basic-Geometry-Library/tree/main/docs)
